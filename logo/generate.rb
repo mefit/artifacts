@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # ====================================
-# Steps to generate logo assets:
+# Steps to generate logos:
 # 1. edit .ai or .svg using Adobe AI
 # 2. export as .png under *dist/*
 # 3. run this script
